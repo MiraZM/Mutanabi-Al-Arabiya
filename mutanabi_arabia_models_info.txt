@@ -1,0 +1,40 @@
+auto corrector (tasheeh)
+accuracy = 77.93%
+precision = 62.3%
+recall = 61.1%
+F1 score = 63.6%
+
+
+dialect classifier 
+accuracy = 82.47%  
+precision = 87.45%
+recall = 83.28%
+F1 score = 85.86%
+
+
+lemmatizer 
+accuracy = 94.9%
+precision = 78.7%
+recall = 80.36%
+F1 score = 68.88%
+
+
+mutanabi 
+accuracy = 98.43%
+precision = 93.01%
+recall = 96.93%
+F1 score = 96.53%
+
+
+summarizer (talkhees)
+accuracy = 97.32%
+precision = 87.7%
+recall = 85.4%
+F1 score = 84.09%
+
+
+tashkeel 
+accuracy = 98.2%
+precision = 93.41%
+recall = 91.5%
+F1 score = 91.81%
